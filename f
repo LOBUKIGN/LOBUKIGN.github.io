@@ -1,0 +1,50 @@
+[33mcommit 67bc15be9922fc27101199cff76009c691a11ed8[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/antonio[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mantonio[m[33m)[m
+Author: antRod <1623jsser@gmail.com>
+Date:   Wed Mar 19 23:04:59 2025 -0600
+
+    cambie cosas
+
+[33mcommit bcefaf71100b45ffa4b7086a38f0e5c8b89bb5ba[m
+Author: antRod <1623jsser@gmail.com>
+Date:   Wed Mar 19 22:55:28 2025 -0600
+
+    borras este archivo
+
+[33mcommit 04f10c0c5b23a87f7b262c41bc38afb7f4ffd73b[m
+Merge: 5e18183 9208388
+Author: LOBUKIGN <bgalvannicolas@gmail.com>
+Date:   Wed Mar 19 22:51:50 2025 -0600
+
+    Merge branch 'main' of https://github.com/LOBUKIGN/LOBUKIGN.github.io
+
+[33mcommit 5e18183abe1f0ad773a2c461154f3f8c53770726[m
+Author: LOBUKIGN <bgalvannicolas@gmail.com>
+Date:   Wed Mar 19 22:51:39 2025 -0600
+
+    HOLAAA X2
+
+[33mcommit 920838822e821ea5638a05629f3081f03d9dba6a[m
+Author: BRENDA GALVAN NICOLAS <134880235+LOBUKIGN@users.noreply.github.com>
+Date:   Wed Mar 19 22:46:02 2025 -0600
+
+    Update README.md
+    
+    hola c:  si
+
+[33mcommit a9bcd3d1a4816094af84610c83a0005f514b7cea[m
+Author: LOBUKIGN <bgalvannicolas@gmail.com>
+Date:   Wed Mar 19 22:37:56 2025 -0600
+
+    Agrege un amm
+
+[33mcommit e981b97dafa6db391eb11c38d7d6921f703e5421[m
+Author: LOBUKIGN <134880235+LOBUKIGN@users.noreply.github.com>
+Date:   Wed Mar 19 22:08:38 2025 -0600
+
+    Cree la carpeta docs y la estructura inicial
+
+[33mcommit 05d1e5fbc92793ba760d1c0df592cb6ed1e94ac3[m
+Author: BRENDA GALVAN NICOLAS <134880235+LOBUKIGN@users.noreply.github.com>
+Date:   Wed Mar 19 21:49:57 2025 -0600
+
+    Initial commit
